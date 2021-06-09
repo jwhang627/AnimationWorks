@@ -51,6 +51,15 @@ Structure:
 
 ![Color Palette 3](references/ColorPalette3.png "Color Palette 3")
 
+4)
+- #7BF1A8
+- #94DDCC
+- #B8C0FF
+- #D2AEE5
+- #F694C1
+
+![Color Palette 4](references/ColorPalette4.png "Color Palette 4")
+
 Tools:
 - Blender (either for rendering or making low-poly objects)
 - Unity/Unreal/Godot
