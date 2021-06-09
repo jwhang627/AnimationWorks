@@ -10,14 +10,14 @@ first-person perspecitve.
 ## Ideas
 
 * The camera floating above the character; doing the birds eye view.
-	* Astral Flight (Working Title: Astral)
+	* Astral Flight (Working Title: *Astral*)
 		* The man who has an ability to perform astral flight enters into a spirit world that causes the haunting of the building.
 * 4:3 aspect ratio (in some scenes).
 * Black and white in some scenes, but colored in other scenes.
 * Haunted house on earth has pastel color palette, while the spirit world are made up of cut-outs.
 	* Has anyone came up with the idea of pastel colored haunted house horror movie?
 
-## IDEA 1: Astral - too expensive and ambitious
+## IDEA 1: ASTRAL - too expensive and ambitious
 Structure:
 [Earth]->[Spirit World]->[Earth]->[Spirit World]
 
@@ -28,6 +28,9 @@ Color Palettes:
 - #FFAFCC
 - #BDE0FE
 - #A2D2FF
+
+![Color Scheme 1](references/ColorScheme1.png "Color Scheme 1")
+
 2)
 - #FDC5F5
 - #F7AEF8
