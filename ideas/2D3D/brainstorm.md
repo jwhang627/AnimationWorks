@@ -29,7 +29,7 @@ Color Palettes:
 - #BDE0FE
 - #A2D2FF
 
-![Color Scheme 1](references/ColorScheme1.png "Color Scheme 1")
+![Color Palette 1](references/ColorPalette1.png "Color Palette 1")
 
 2)
 - #FDC5F5
@@ -37,12 +37,17 @@ Color Palettes:
 - #B388EB
 - #8093F1
 - #72DDF7
+
+![Color Palette 2](references/ColorPalette2.png "Color Palette 2")
+
 3)
 - #809BCE
 - #95B8D1
 - #B8E0D2
 - #D6EADF
 - #EAC4D5
+
+![Color Palette 3](references/ColorPalette3.png "Color Palette 3")
 
 Tools:
 - Blender (either for rendering or making low-poly objects)
