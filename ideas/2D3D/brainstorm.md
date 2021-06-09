@@ -5,7 +5,7 @@
 Shot and edited like it is done in one continuous shot, and told from
 first-person perspecitve.
 
-(See Enter the Void, Birdman, 1917, Rope, Hardcore Henry, etc.)
+(See *[Enter the Void](https://www.imdb.com/title/tt1191111/?ref_=fn_al_tt_1)*, *[Birdman](https://www.imdb.com/title/tt2562232/?ref_=nv_sr_srsg_0)*, *[1917](https://www.imdb.com/title/tt8579674/?ref_=nv_sr_srsg_0)*, *[Rope](https://www.imdb.com/title/tt0040746/?ref_=nv_sr_srsg_0)*, *[Hardcore Henry](https://www.imdb.com/title/tt3072482/?ref_=nv_sr_srsg_0)*, etc.)
 
 ## Ideas
 
