@@ -21,7 +21,7 @@ Linux files.
 Make your to move your video references into your Arch Linux's Vidoes
 folders.
 
-I just realized I need to check out clips of Hardcore Henry.
+I just realized I need to check out clips of *Hardcore Henry*.
 
 And today is my sister's birthday.
 
@@ -33,3 +33,6 @@ I believe Blender is one way to go. I could use Unity.
 But first, let's try make various assets.
 
 And also, I am writing this with newly installed AwesomeWM.
+
+To make some concept arts, I need to sketch some interior set first
+with pencils and sketchbook papers.
