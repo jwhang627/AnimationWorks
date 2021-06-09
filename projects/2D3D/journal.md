@@ -18,8 +18,12 @@ than I thought.  Like a cancer tumor. Maybe I should either use Unity
 or Blender. But it did give me an excuse to clean and reorganize my
 Linux files.
 
-Make your to move your video references into your Arch Linux's Vidoes folders.
+Make your to move your video references into your Arch Linux's Vidoes
+folders.
 
 I just realized I need to check out clips of Hardcore Henry.
 
 And today is my sister's birthday.
+
+Look into this link:
+https://gamedevelopment.tutsplus.com/tutorials/create-an-animated-movie-in-blender-part-one--cms-29704
