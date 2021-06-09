@@ -17,7 +17,7 @@ first-person perspecitve.
 * Haunted house on earth has pastel color palette, while the spirit world are made up of cut-outs.
 	* Has anyone came up with the idea of pastel colored haunted house horror movie?
 
-## IDEA 1: ASTRAL - too expensive and ambitious
+### IDEA 1: ASTRAL - too expensive and ambitious
 Structure:
 [Earth]->[Spirit World]->[Earth]->[Spirit World]
 
