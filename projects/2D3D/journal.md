@@ -25,8 +25,7 @@ I just realized I need to check out clips of *Hardcore Henry*.
 
 And today is my sister's birthday.
 
-Look into this link:
-https://gamedevelopment.tutsplus.com/tutorials/create-an-animated-movie-in-blender-part-one--cms-29704
+Look into [this link](https://gamedevelopment.tutsplus.com/tutorials/create-an-animated-movie-in-blender-part-one--cms-29704).
 
 I believe Blender is one way to go. I could use Unity.
 
