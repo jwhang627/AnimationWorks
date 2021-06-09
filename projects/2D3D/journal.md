@@ -27,3 +27,9 @@ And today is my sister's birthday.
 
 Look into this link:
 https://gamedevelopment.tutsplus.com/tutorials/create-an-animated-movie-in-blender-part-one--cms-29704
+
+I believe Blender is one way to go. I could use Unity.
+
+But first, let's try make various assets.
+
+And also, I am writing this with newly installed AwesomeWM.
